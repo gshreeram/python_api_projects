@@ -2,14 +2,14 @@
 
 The goal of this project is to build a fully functioning REST API using Python, Django, and Django REST Framework. The API will provide a range of functionalities, including:
 
-- [ ] User authentication
+- [X] User authentication using Custom Model
 - [ ] Object creation
 - [ ] Filtering and sorting objects
 - [ ] Image uploading and viewing
 
 The project will also cover additional aspects such as:
 
-- [ ] Testing and linting with TDD and GitHub Actions
+- [X] Testing and linting with TDD and GitHub Actions
 - [ ] API documentation using Swagger
 - [ ] Deployment on AWS
 
@@ -17,7 +17,7 @@ The project will also cover additional aspects such as:
 
 The following objectives will be achieved throughout this project:
 
-- [ ] Implement a secure user authentication system that allows users to register, log in, and authenticate their requests to the API.
+- [X] Implement a secure user authentication system that allows users to register, log in, and authenticate their requests to the API using custom user model.
 - [ ] Develop API endpoints to enable users to create objects in the system with proper validation and authorization checks.
 - [ ] Design API endpoints that support filtering and sorting of objects based on different criteria.
 - [ ] Implement functionality to allow users to upload and view images through the API securely and efficiently.
