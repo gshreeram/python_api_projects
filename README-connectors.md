@@ -7,7 +7,7 @@ List of supported connectors
 
 ## GMail API Overview
 
-To connect to Gmail via OAuth2 and list the top ten senders for that particular email address. 
+To connect to Gmail via OAuth2 and list the top ten senders for that particular email address.
 
 ### Workflow
 
@@ -15,9 +15,9 @@ To connect to Gmail via OAuth2 and list the top ten senders for that particular 
 
 2. **Authorization**: Once the user authorizes the tool, it will receive an access token and, if requested, a refresh token. These tokens will be used to authenticate subsequent API requests.
 
-3. **Retrieve Top Senders**: Using the authorized access, the tool will query the Gmail API to retrieve the list of email messages associated with the user's account. It will then analyze the sender information and determine the top ten most frequent email senders.
+3. **Retrieve Top Senders**: Using the authorized access, the tool will query the Gmail API to retrieve the list of email messages associated with the user's account.
 
-4. **Display Results**: The tool will present the top ten senders to the user, allowing them to visualize the individuals or entities they receive emails from most frequently. This information can be helpful in identifying significant sources of emails and potential cleanup targets.
+4. **Display Results**: The tool will present the some analytics to the user, allowing them to visualize.
 
 <!-- ### Future Enhancements
 
