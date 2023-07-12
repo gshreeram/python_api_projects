@@ -18,6 +18,12 @@ The main goals of the API Projects in Python are as follows:
 
 6. **Deployment and Scalability**: The projects will cover the deployment of APIs to production environments and address considerations for scalability. Developers will learn about different deployment options, such as containerization with Docker or deploying to cloud platforms like AWS or Heroku.
 
-## Projects
+## API Projects
 
 - [x] [Recipe API](README-py_dj_recipe_api.md)
+
+## API Integrations
+
+- [x] [OpenWeatherMap API](README-openweathermap.md)
+- [x] [Facebook API](README-Meta.md)
+- [x] [Language Tooks API](README-languagetool.md)

@@ -1,3 +1,6 @@
 [submodule "py_dj_recipe_api"]
 	path = py_dj_recipe_api
 	url = https://github.com/gshreeram/py_dj_recipe_api
+[submodule "API_Integrations"]
+	path = API_Integrations
+	url = https://github.com/gshreeram/py_api_integration
