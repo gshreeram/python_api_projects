@@ -4,3 +4,6 @@
 [submodule "API_Integrations"]
 	path = API_Integrations
 	url = https://github.com/gshreeram/py_api_integration
+[submodule "API_Connectors"]
+	path = API_Connectors
+	url = https://github.com/gshreeram/py_api_connectors

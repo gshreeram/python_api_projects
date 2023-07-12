@@ -27,3 +27,7 @@ The main goals of the API Projects in Python are as follows:
 - [x] [OpenWeatherMap API](README-openweathermap.md)
 - [x] [Facebook API](README-Meta.md)
 - [x] [Language Tooks API](README-languagetool.md)
+
+## API Connectors
+
+- [x] [Gmail API](README-connectors.md)
